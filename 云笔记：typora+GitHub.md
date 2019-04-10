@@ -6,19 +6,19 @@
 
 **加粗** <kbd>ctrl</kbd>+<kbd>b</kbd>
 
-插入本地图片 <kbd>Ctrl</kbd>+<kbd>shift</kbd>+<kbd>I</kbd>
 
-截图可以直接： <kbd>Ctrl</kbd>+<kbd>c</kbd>, <kbd>ctrl</kbd>+<kbd>v</kbd>
+
+插入代码块 <kbd>ctrl</kbd>+<kbd>shift</kbd>+k
 
 插入行内代码 Ctrl+shift+波浪线~：  `import java.utils.List`
 
 
 
-```matlab
+截图可以直接： <kbd>Ctrl</kbd>+c, <kbd>ctrl</kbd>+v
 
-%% 注释
+插入本地图片 <kbd>Ctrl</kbd>+<kbd>shift</kbd>+I
 
-```
+
 
 
 
